@@ -1,2 +1,3 @@
-# Adobe_PhotoShop_Advertisements
-Advertisements, edited with Adobe Photoshop, to advertise the Track and Field Club
+# Budget App Project
+Budget App Project using advanced JS concepts such as OOP (prototype chain), closures and first class functions.
+Bootstrap is used to deal with CSS styles.
